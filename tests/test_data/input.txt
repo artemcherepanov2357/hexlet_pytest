@@ -1,0 +1,3 @@
+Hello world!
+This is a test for the reverse function.
+Let's check how it handles longer text.
